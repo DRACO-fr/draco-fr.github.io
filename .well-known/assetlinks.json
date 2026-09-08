@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.draco_fr.twa",
+        "sha256_cert_fingerprints": ["D9:46:1D:3D:21:74:CC:4B:31:C5:31:A5:33:87:D0:D6:A3:7E:19:24:D7:E6:ED:91:88:7B:91:7A:61:BF:8E:22"]
+      }
+    }]
