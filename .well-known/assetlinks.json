@@ -5,4 +5,12 @@
         "package_name": "io.github.draco_fr.twa",
         "sha256_cert_fingerprints": ["AC:82:B0:6B:7C:28:09:43:6A:7B:76:25:96:A4:9A:60:40:27:3B:EF:59:CB:56:09:6A:28:F1:9B:7B:68:9F:3F"]
       }
+    },{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.draco.skillion",
+        "sha256_cert_fingerprints": ["98:04:11:A2:DA:84:B4:E4:48:59:47:82:E2:95:E9:0B:E6:B9:47:BA:8D:68:71:15:CE:CA:09:4E:1E:A6:F4:A0"]
+      }
     }]
+
