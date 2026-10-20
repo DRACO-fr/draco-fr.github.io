@@ -1,4 +1,4 @@
-OP[{
+[{
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
@@ -13,5 +13,3 @@ OP[{
         "sha256_cert_fingerprints": ["98:04:11:A2:DA:84:B4:E4:48:59:47:82:E2:95:E9:0B:E6:B9:47:BA:8D:68:71:15:CE:CA:09:4E:1E:A6:F4:A0"]
       }
     }]
-
-
