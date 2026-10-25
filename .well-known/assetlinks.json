@@ -4,7 +4,10 @@
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.draco_fr.twa",
-      "sha256_cert_fingerprints": ["AC:82:B0:6B:7C:28:09:43:6A:7B:76:25:96:A4:9A:60:40:27:3B:EF:59:CB:56:09:6A:28:F1:9B:7B:68:9F:3F"]
+      "sha256_cert_fingerprints": [
+        "AC:82:B0:6B:7C:28:09:43:6A:7B:76:25:96:A4:9A:60:40:27:3B:EF:59:CB:56:09:6A:28:F1:9B:7B:68:9F:3F",
+        "A3:0B:7B:42:6A:99:D2:BB:DB:28:03:2F:E8:3F:A5:12:3D:A0:03:39:83:72:44:2C:CA:36:FE:68:36:52:16:C4"
+      ]
     }
   },
   {
